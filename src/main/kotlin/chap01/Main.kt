@@ -1,4 +1,4 @@
-package jp.ac.it_college.std.s24008.kotlin
+package jp.ac.it_college.std.s24008.kotlin.chap01
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
