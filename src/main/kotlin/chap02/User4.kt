@@ -8,7 +8,7 @@ class User4 {
 
 fun main() {
     val user = User4()
-    user.name = "Nakasone"
+    user.name = "なかそね"
     println(user.isValidName)
     user.name = ""
     println(user.isValidName)
